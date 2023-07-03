@@ -1,17 +1,17 @@
 # Flaskr Simple CRUD Blog
 
-## Create Environment
+1. Create Environment
 
 - `python3 -m venv .venv`
 
-## Activate Environment
+2. Activate Environment
 
 - `. .venv/bin/activate`
 
-## Install Flask
+3. Install Flask
 
 - `pip install Flask`
 
-## Run App
+4. Run App
 
 - `--app flaskr run --debug`
